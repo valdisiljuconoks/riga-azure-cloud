@@ -1,0 +1,1 @@
+# Riga Azure Cloud Repository
